@@ -24,7 +24,7 @@ The user can enter a value in any one field, and the application automatically c
 
 ## 🖥️ Preview
 
-![temperature-converter-image](SCT-SD-1/screenshots/image.png)
+![temperature-converter-image](screenshots/image.png)
 
 ---
 
