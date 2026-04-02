@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green.svg)
 ![Data Export](https://img.shields.io/badge/Data-CSV-orange.svg)
-![Status](https://img.shields.io/badge/Project-Completed-success.svg)
 
 ## 📌 Project Overview
 
@@ -44,6 +43,12 @@ from multiple pages of an online bookstore and exports the dataset in a clean st
 
 ---
 
+## 🖥️ Application Preview
+
+![csv file data screenshot](screenshot/image.png)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -52,6 +57,7 @@ ecommerce-book-scraper/
 ├── main.py
 ├── books.csv
 ├── requirements.txt
+├── screenshot/
 └── README.md
 ```
 
